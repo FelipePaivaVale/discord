@@ -1,0 +1,26 @@
+todos os comandos da misato e suas entradas 
+
+>tictactoe
+inicia um jogo da velha entre dois usuários
+inicialização com o comando e marcando dois membros como no exemplo >tictactoe @jogador1 @jogador2
+
+>cpf 
+não possui nenhuma entrada e retorna um cpf valido formato 
+
+>senha
+gera uma sequencia aleatoria de 10 caracteres incluindo letras, números e caracteres especiais 
+
+>music 
+dando entrada em link do youtube ele retornada um arquivo para download do audio do vídeo
+
+>sorteio
+sorteia um número de 1 até o limite em que o usuário definir como única entrada no comando
+
+>bi
+entre com um número decimal e será retornado o mesmo no formato binario
+
+>octa
+entre com um número decimal e será retornado o mesmo no formato octadecimal
+
+>hexa
+entre com um número decimal e será retornado o mesmo no formato hexadecimal
