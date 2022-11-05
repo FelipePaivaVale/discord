@@ -227,4 +227,4 @@ async def comandos(ctx):
     embed.add_field(name="**>octa**", value="transforme um número decimal para octadecimal", inline=False)
     embed.add_field(name="**>hexa**", value="transforme um número decimal para hexadecimal", inline=False)
     await ctx.send(embed=embed)    
-client.run('ODU3OTM3MzE2NTM3NTY1MjI0.YNW2Yw.mIgJH05a8dc9Y_0Gcqz7yfWXUmk')
+client.run('your token')
