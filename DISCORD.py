@@ -203,11 +203,6 @@ async def cpf(ctx):
     await ctx.send(cpf_formatado)
 
 @client.command()
-async def oi(ctx):
-    nome = (ctx.author)
-    await ctx.send(f'vai tomar no cu, {nome.mention}')
-
-@client.command()
 async def comandos(ctx):
     embed = discord.Embed(
         title ="Todos os comandos da misato",
